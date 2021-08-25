@@ -1,0 +1,2 @@
+# cedae
+CEDAE - Acompanhamento Escolar
